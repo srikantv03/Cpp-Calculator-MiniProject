@@ -131,8 +131,8 @@ QPushButton:hover {
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true"> background-color: #38caff;
-color: white;
+     <string notr="true"> background-color: #C5EAFF;
+color: black;
 font-size: 25px;
 font-family:Arial;
 QPushButton{
@@ -203,9 +203,9 @@ QPushButton:hover {
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true"> background-color: #38caff;
-color: white;
-font-size: 20px;
+     <string notr="true"> background-color: #C5EAFF;
+color: black;
+font-size: 22px;
 font-family:Arial;
 QPushButton{
 }
@@ -299,9 +299,9 @@ QPushButton:hover {
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true"> background-color: #38caff;
-color: white;
-font-size: 25px;
+     <string notr="true"> background-color: #C5EAFF;
+color: black;
+font-size: 30px;
 font-family:Arial;
 QPushButton{
 }
@@ -371,8 +371,8 @@ QPushButton:hover {
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true"> background-color: #38caff;
-color: white;
+     <string notr="true"> background-color: #C5EAFF;
+color: black;
 font-size: 25px;
 font-family:Arial;
 QPushButton{
@@ -491,7 +491,7 @@ QPushButton:hover {
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true"> background-color: #38caff;
+     <string notr="true"> background-color: #6AB5F2;
 color: white;
 font-size: 25px;
 font-family:Arial;

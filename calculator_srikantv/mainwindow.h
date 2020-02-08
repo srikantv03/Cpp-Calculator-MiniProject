@@ -24,5 +24,8 @@ private slots:
     void on_decimal_released();
     void on_clear_pressed();
     void on_multiply_pressed();
+    void on_equals_released();
+    void on_minus_released();
+    void on_plus_released();
 };
 #endif // MAINWINDOW_H
